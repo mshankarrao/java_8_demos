@@ -12,25 +12,25 @@ public class BasicJava7_8_Comparison {
     public static void main(String args[]){
 
         List<String> names1 = new ArrayList<String>();
-        names1.add("Mahesh ");
-        names1.add("Suresh ");
-        names1.add("Ramesh ");
-        names1.add("Naresh ");
-        names1.add("Kalpesh ");
+        names1.add("A");
+        names1.add("Z");
+        names1.add("C");
+        names1.add("N");
+        names1.add("B");
 
         List<String> names2 = new ArrayList<String>();
-        names2.add("Mahesh ");
-        names2.add("Suresh ");
-        names2.add("Ramesh ");
-        names2.add("Naresh ");
-        names2.add("Kalpesh ");
+        names2.add("A");
+        names2.add("Z");
+        names2.add("C");
+        names2.add("N");
+        names2.add("B");
 
         BasicJava7_8_Comparison tester = new BasicJava7_8_Comparison();
-        System.out.println("Sort using Java 7 syntax: ");
+        System.out.println("Sort Using J7");
 
         tester.sortUsingJava7(names1);
         System.out.println(names1);
-        System.out.println("Sort using Java 8 syntax: ");
+        System.out.println("Sort using J8");
 
         tester.sortUsingJava8(names2);
         System.out.println(names2);
