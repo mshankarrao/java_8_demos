@@ -1,4 +1,4 @@
-package Java_8_Demos;
+package com.shankar.lambda_with_collections;
 
 /**
  * Created by shankarraomata on 12/24/16.

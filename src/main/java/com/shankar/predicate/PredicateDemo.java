@@ -2,6 +2,10 @@ package com.shankar.predicate;
 
 import java.util.function.Predicate;
 
+/**
+ * creating multiple predicates to show all the functionality
+ * and the methods available inside predicate interface
+ */
 public class PredicateDemo {
 
     public static void main(String[] args) {

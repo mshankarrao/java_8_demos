@@ -1,4 +1,4 @@
-package Java_8_Demos;
+package com.shankar.lambda_with_collections;
 
 import java.util.Arrays;
 import java.util.List;
