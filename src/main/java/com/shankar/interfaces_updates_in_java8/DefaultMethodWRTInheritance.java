@@ -1,4 +1,4 @@
-package com.shankar.interfaces_change;
+package com.shankar.interfaces_updates_in_java8;
 
 interface defaultMultiFirst {
 

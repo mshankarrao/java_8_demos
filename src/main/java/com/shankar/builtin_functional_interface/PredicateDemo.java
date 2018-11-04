@@ -1,4 +1,4 @@
-package com.shankar.predicate;
+package com.shankar.builtin_functional_interface;
 
 import java.util.function.Predicate;
 

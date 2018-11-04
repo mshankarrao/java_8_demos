@@ -1,4 +1,4 @@
-package com.shankar.interfaces_change;
+package com.shankar.interfaces_updates_in_java8;
 
 /**
  * Default method can be used from java8 onwards which comes with declaration and will be used if
